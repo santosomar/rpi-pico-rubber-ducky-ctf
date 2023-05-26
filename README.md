@@ -59,7 +59,7 @@ wsgiserver.py
 ```
 **NOTE**: The `webapp.py` and `wsgiserver.py` files are optional in case you want to run a web server and you have a Raspberry Pi Pico W (wireless).
 
-## Creatng the payload
+## Creating the payload
 The USB Rubber Ducky is a versatile tool that utilizes DuckyScript 3.0, a scripting language designed specifically for automating tasks and executing payloads on target systems. DuckyScript 3.0 provides a simple yet powerful syntax for creating scripts that can simulate keyboard input, interact with the operating system, and perform various actions. By leveraging the USB Rubber Ducky, users can easily automate repetitive tasks, perform security assessments, and execute pre-defined sequences of commands on a wide range of systems. With DuckyScript 3.0, the USB Rubber Ducky offers a flexible and efficient solution for automating tasks and carrying out advanced penetration testing activities.
 
 - You can obtain a script from [Hak5](https://github.com/hak5/usbrubberducky-payloads) or create your own script using Ducky Script syntax described [here](https://docs.hak5.org/hak5-usb-rubber-ducky/ducky-script-basics/hello-world). 
